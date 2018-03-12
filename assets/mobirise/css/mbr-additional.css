@@ -718,6 +718,7 @@ h6,
 
 
 
+
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -792,6 +793,12 @@ h6,
 #features3-8 H5 {
   color: #28324e;
 }
+#features3-11 H4 {
+  font-family: 'Oxygen', sans-serif;
+}
+#features3-11 H5 {
+  color: #28324e;
+}
 
 
 #menu-y .hide-buttons .nav-btn {
@@ -861,5 +868,76 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #msg-box2-z .mbr-section-subtitle {
+  color: #28324e;
+}
+
+
+#menu-12 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-12 .navbar-caption {
+  color: #ffffff;
+}
+#menu-12 .navbar-toggler {
+  color: #28324e;
+}
+#menu-12 .close-icon::before,
+#menu-12 .close-icon::after {
+  background-color: #28324e;
+}
+#menu-12 .link,
+#menu-12 .dropdown-item {
+  color: #28324e;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-12 .link {
+  font-size: 0.9rem;
+}
+#menu-12 .dropdown-item,
+#menu-12 .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-12 .link:hover,
+#menu-12 .dropdown-item:hover,
+#menu-12 .link:focus,
+#menu-12 .dropdown-item:focus {
+  color: #000000;
+}
+#menu-12 .link[aria-expanded="true"],
+#menu-12 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-12 .nav-dropdown-sm .link:focus,
+#menu-12 .nav-dropdown-sm .link:hover,
+#menu-12 .nav-dropdown-sm .dropdown-item:focus,
+#menu-12 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-12 .navbar,
+#menu-12 .nav-dropdown-sm,
+#menu-12 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-12 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-12 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-12 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-12 .bg-color.transparent.opened .link:hover,
+#menu-12 .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#menu-12 .link[aria-expanded="true"],
+#menu-12 .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#msg-box2-13 .mbr-section-title {
+  color: #000000;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box2-13 .mbr-section-subtitle {
   color: #28324e;
 }
