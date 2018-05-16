@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JanneLanduyt",
-    "currentPage": "work.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2101,7 +2101,7 @@
           "form": {
             "action": "landuyt.janne@hotmail.com",
             "alerts": {
-              "success": "Thanks you"
+              "success": "Thank you!"
             },
             "fields": {
               "name": {
