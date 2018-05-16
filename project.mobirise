@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JanneLanduyt",
-    "currentPage": "work.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -166,7 +166,7 @@
             },
             "overlay": true,
             "overlayColor": "#efefef",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.2"
           },
           "title": "Janne Landuyt",
           "text": "Student textile design, based in Ghent",
