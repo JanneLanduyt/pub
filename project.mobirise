@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JanneLanduyt",
-    "currentPage": "knitwear.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -221,7 +221,7 @@
             }
           },
           "title": "About",
-          "text": "'97, Belgium<br><br><b>Study</b><br>Visual arts, textile desing at Luca school of arts, Ghent<br><br><b>Extern projects</b><br>I did an 3 month-long Internship at Monsieur Tricot and Hilde Frunt, in Antwerp. Specializing in knitwear and design.<br>I developed a knitted prototype for 'Forward Belgium', a new Belgian company specialized in cruelty-free fashion.<br>I have my own knitwear label sinds March 2018.<br><br><b><br></b>",
+          "text": "'97, Belgium<br><br><b>Study</b><br>Visual arts, textile design at Luca school of arts, Ghent<br><br><b>Extern projects</b><br>I did an 3 month-long Internship at Monsieur Tricot and Hilde Frunt, in Antwerp. Specializing in knitwear and design.<br>I developed a knitted prototype for 'Forward Belgium', a new Belgian company specialized in cruelty-free fashion.<br>I have been owning a knitwear label sinds March 2018.<br><br><b><br></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
