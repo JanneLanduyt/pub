@@ -1033,6 +1033,10 @@ h6,
 #footer1-17 P {
   color: #28324e;
 }
+#content1-1j P {
+  text-align: left;
+}
+
 
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
@@ -1099,13 +1103,10 @@ h6,
 #footer1-19 P {
   color: #28324e;
 }
-#msg-box8-1a .mbr-section-title,
-#msg-box8-1a p {
-  color: #fff;
-}
-#msg-box8-1a .mbr-section-title {
+#msg-box2-1b .mbr-section-title {
   color: #000000;
+  font-family: 'Oxygen', sans-serif;
 }
-#msg-box8-1a .lead {
+#msg-box2-1b .mbr-section-subtitle {
   color: #28324e;
 }
